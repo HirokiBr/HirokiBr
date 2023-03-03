@@ -19,10 +19,15 @@
         </li>   
      <hr>
         <p>Programas que eu uso: </p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Visual_Studio_2012_logo_and_wordmark.svg/2560px-Visual_Studio_2012_logo_and_wordmark.svg.png">
+  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Roblox_player_icon_black.svg/2048px-Roblox_player_icon_black.svg.png"  style="width:100px;height:100px;">
+
       
   <hr>
-       <h3> Estou Fazendo um site temporário pra aprender a usar <span style="background-color: Tomato"> HTML, CSS.</span> <h3>
+       <h3> Estou Fazendo um site temporário pra aprender a usar <span style="background-color: Tomato"> HTML, CSS, Banco De Dados,Lógica Computacional, Etc.</span> <h3>
+       
      
 </body>
 </html>
